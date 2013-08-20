@@ -175,8 +175,25 @@ height: 100%;
 	color: white;
 	padding: 1em 0;
 }
-
-
+.centered{
+	text-align: center;
+}
+.shopify{
+	font-size: 1.2em;
+}
+.ecomm{
+	margin-bottom: 3em;
+}
+.pricing{
+	margin-top: 3em;
+}
+form.buy_now{
+	padding-top: 1em;
+	text-align: center;
+}
+.promo{
+	margin-top: 2em;
+}
 /*
  * Panel Colors below here 
  */

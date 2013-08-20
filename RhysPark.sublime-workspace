@@ -1,0 +1,522 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"hei",
+				"min-height"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"i",
+				"inside"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"righ",
+				"right_col"
+			],
+			[
+				"left",
+				"left_col"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"mik",
+				"mike-float"
+			],
+			[
+				"mike",
+				"mike-move"
+			],
+			[
+				"we",
+				"webkit-keyframes"
+			],
+			[
+				"ro",
+				"rock-boat"
+			],
+			[
+				"bou",
+				"bounds"
+			],
+			[
+				"map",
+				"mapOptions"
+			],
+			[
+				"Map",
+				"mapTypeId"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wmu",
+				"wmuSlider"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"valid",
+				"validEmail"
+			],
+			[
+				"val",
+				"validEmail"
+			],
+			[
+				"is",
+				"isValidEmail"
+			],
+			[
+				"con",
+				"containsBlanks"
+			],
+			[
+				"re",
+				"requiredFilledIn"
+			],
+			[
+				"FA",
+				"FAF3BC"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"rel",
+				"relation"
+			],
+			[
+				"relat",
+				"related"
+			],
+			[
+				"get",
+				"get_product_extra"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"produ",
+				"product_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "static_html.html",
+			"settings":
+			{
+				"buffer_size": 9850,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "e-commerce.html",
+			"settings":
+			{
+				"buffer_size": 11399,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/macbook/Documents/Website Projects/RhysPark/static_html.html",
+		"/Users/macbook/Documents/Website Projects/RhysPark/contact_me.html",
+		"/Users/macbook/Documents/Website Projects/RhysPark/index.html",
+		"/Users/macbook/Documents/Website Projects/RhysPark/projects.html",
+		"/Users/macbook/Documents/Website Projects/RhysPark/e-commerce.html",
+		"/Users/macbook/Documents/Website Projects/RhysPark/contact_me_sucess.html",
+		"/Users/macbook/Documents/Website Projects/RhysPark/css/my_style.css",
+		"/Volumes/Storage/IGPython/schemamigration",
+		"/Users/macbook/Documents/Website Projects/OpenWeigh Responsive/index.html",
+		"/Users/macbook/Documents/Website Projects/OpenWeigh 1/index.html",
+		"/Users/macbook/Documents/Website Projects/OpenWeigh 1/css/main_style.css",
+		"/Users/macbook/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/macbook/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/macbook/Documents/Treehouse/bakin/map.html",
+		"/Users/macbook/Documents/Treehouse/bakin/locations.html",
+		"/Users/macbook/Documents/Treehouse/Interactive Website Project/contact.html",
+		"/Users/macbook/Documents/Treehouse/Interactive Website Project/css/style.css",
+		"/Users/macbook/Documents/Treehouse/Interactive Website Project/index.html",
+		"/Users/macbook/Documents/Treehouse/Interactive Website Project/pricing.html",
+		"/Users/macbook/Documents/Treehouse/Project 1/index.html",
+		"/Volumes/Storage/IGPython/README.md",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/mrp_repair/__openerp__.py",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/mrp/report/order.py",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/mrp_repair/report/__init__.py",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/mrp_repair/mrp_repair_report.xml",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/mrp_repair/report/order.py",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/mrp_repair/report/__init__.pyo",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/mrp_repair/wizard/cancel_repair.py",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/mrp_repair/mrp_repair.pyo",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/mrp_repair/mrp_repair.py",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/mrp_repair/mrp_repair_view.xml",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/mrp_repair/mrp_repair_sequence.xml",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/mrp_repair/mrp_repair_demo.yml",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/sale/report/sale_order.py",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/sale/report/sale_report.pyo",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/delivery/report/shipping.py",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/base/res/res_partner.py",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/delivery/delivery.py",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/sale/sale_view.xml",
+		"/Users/macbook/Downloads/RTC_WIN_3/Tutorial Guide/Sample Files/Chapter16.c",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/purchase/purchase.py",
+		"/Volumes/c$/Web Sites/OpenErp/OpenERP 7.0-20130205-000102/Server/server/openerp/addons/base/ir/ir_mail_server.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"its",
+			"thats",
+			"index.html",
+			"mail",
+			"email",
+			"check_leaf",
+			"payment_term_id",
+			"product_type",
+			"rent_line_ids",
+			"is_service_only",
+			"end_date",
+			"afternoon_end",
+			"end.date",
+			"get_end_date",
+			"rent_afternoon_end",
+			"SET \"rent_afternoon_end\"",
+			"@report_bugs",
+			"report_bugs",
+			"mac",
+			"github",
+			"res.partner.address",
+			"name",
+			"move_id",
+			"button",
+			"validate",
+			"move",
+			"location_id'",
+			"product_id",
+			"button",
+			"picking",
+			"read only",
+			"get_product",
+			"order_line",
+			"address_format",
+			"address.country_id.address_format",
+			"self.pool.get",
+			"display_address",
+			"plain",
+			"purchase.order",
+			"dest_address_id",
+			"customer address"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#@report_bugs"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "static_html.html",
+					"settings":
+					{
+						"buffer_size": 9850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								730,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "e-commerce.html",
+					"settings":
+					{
+						"buffer_size": 11399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								762,
+								762
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 392.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true
+}
