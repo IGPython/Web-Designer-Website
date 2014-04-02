@@ -243,31 +243,19 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "static_html.html",
-			"settings":
-			{
-				"buffer_size": 9850,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "e-commerce.html",
-			"settings":
-			{
-				"buffer_size": 11399,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 347.0,
 		"selected_items":
 		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
 		],
-		"width": 392.0
+		"width": 602.0
 	},
 	"console":
 	{
@@ -284,13 +272,13 @@
 	},
 	"file_history":
 	[
+		"/Users/macbook/Documents/Website Projects/RhysPark/css/my_style.css",
+		"/Users/macbook/Documents/Website Projects/RhysPark/index.html",
+		"/Users/macbook/Documents/Website Projects/RhysPark/e-commerce.html",
 		"/Users/macbook/Documents/Website Projects/RhysPark/static_html.html",
 		"/Users/macbook/Documents/Website Projects/RhysPark/contact_me.html",
-		"/Users/macbook/Documents/Website Projects/RhysPark/index.html",
 		"/Users/macbook/Documents/Website Projects/RhysPark/projects.html",
-		"/Users/macbook/Documents/Website Projects/RhysPark/e-commerce.html",
 		"/Users/macbook/Documents/Website Projects/RhysPark/contact_me_sucess.html",
-		"/Users/macbook/Documents/Website Projects/RhysPark/css/my_style.css",
 		"/Volumes/Storage/IGPython/schemamigration",
 		"/Users/macbook/Documents/Website Projects/OpenWeigh Responsive/index.html",
 		"/Users/macbook/Documents/Website Projects/OpenWeigh 1/index.html",
@@ -402,62 +390,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "static_html.html",
-					"settings":
-					{
-						"buffer_size": 9850,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								730,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "e-commerce.html",
-					"settings":
-					{
-						"buffer_size": 11399,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								762,
-								762
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 392.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],

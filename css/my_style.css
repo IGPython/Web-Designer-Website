@@ -18,9 +18,11 @@
 
 .top-bar, .top-bar-section ul, .top-bar-section li a:not(.button){
 	background: rgba(52, 152, 219,1.0);
-	
-}
 
+}
+.top-bar, .top-bar-section {
+
+}
 .top-bar-section > ul > .divider, .top-bar-section > ul > [role="separator"] {
 	border-right: solid 1px rgba(255,255,255,0.9);
 	border-left: solid 1px rgba(255,255,255,0.9);
@@ -29,6 +31,9 @@
 	font-family: "Metrize-Icons";
 	font-size: 2em;
 	color: white;
+}
+.top-bar {
+	margin-bottom: 0px;
 }
 
 /* End of Nav Style */
@@ -57,7 +62,7 @@ height: 100%;
 	text-align: center;
 }
 .main_image_content{
-	margin-top: -1.875em;
+	margin-top: 0px;
     filter: gray; /* IE6-9 */
     -webkit-filter: grayscale(1); /* Google Chrome & Safari 6+ */
 	background: url('../img/main.jpg') no-repeat;
@@ -150,9 +155,9 @@ height: 100%;
 }
 
 .wide_info{
-	background: #e74c3c;
+	background: rgba(52, 152, 219,1.0);
 	width: 100%;
-	margin: 10px 0px;
+	margin: 0px 0px 10px 0px;
 	letter-spacing: 0.5px;
 }
 .center_text{
